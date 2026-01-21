@@ -1,0 +1,23 @@
+Test Case 1:
+What's your favorite food? Pizza
+What's your favorite color? Blue
+
+Expected Output:
+Name: Matta Rajababu
+Age: 24 years (288 months old)
+City: Visakhapatnam
+Hobby: playing Kabaddi
+Favorite Food: Biryani
+Favorite Color: Blue
+
+Test Case 2 - Empty Input Handling:
+What's your favorite food? Ice Cream
+Please enter a valid food! Ice Cream
+What's your favorite food? Ice cream
+What's your favorite color? Green
+
+Test Case 3:
+What's your favorite food? Ice Cream
+What's your favorite color? 
+Please enter a valid color!
+What's your favorite color? Purple
